@@ -1,5 +1,17 @@
 # PVC 光化学课题组汇报
 
+## 最新版：蓝白科研答辩风
+
+- **[下载最新版 PPT（20页，含讲稿备注）](PVC_AQ_20slides_academic_blue.pptx)**
+- **[查看最新版 PDF](PVC_AQ_20slides_academic_blue.pdf)**
+- [查看机制页版式预览](PVC_AQ_style_preview.png)
+
+采用 codex-ppt 的科研答辩风视觉规范：白底深蓝、图文结合、每页一句总结。蒽醌专门介绍压缩为1页，重点为PVC、含氯介质、前期实验和机制验证。延续可编辑要求，使用原生文字、表格、柱状图和机制框图；真实实验谱图与文献图保留为图片。
+
+打开文件页面后，点击文件区右上角的 **Download raw file（下载箭头）** 保存；使用PowerPoint或WPS打开PPTX。
+
+## 上一版（保留供比较）
+
 - [下载 PowerPoint（20页，含讲稿备注）](PVC_AQ_20slides.pptx)
 - [查看 PDF（20页）](PVC_AQ_20slides.pdf)
 
