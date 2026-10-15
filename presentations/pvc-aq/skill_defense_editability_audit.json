@@ -1,0 +1,20 @@
+{
+  "slides": 20,
+  "aspect_ratio": "16:9",
+  "native_objects": 832,
+  "notes": 20,
+  "embedded_images": 0,
+  "macros": 0,
+  "out_of_bounds": [],
+  "forbidden_content": [],
+  "chart_data": [
+    [
+      87.6,
+      82.8,
+      73.8,
+      76.6
+    ]
+  ],
+  "style_source": "codex-ppt/references/科研答辩风.md and user screenshots",
+  "native_override": "all-editable user requirement overrides full-slide image workflow"
+}

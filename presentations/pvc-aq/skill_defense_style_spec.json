@@ -1,0 +1,12 @@
+{
+  "style_reference": "codex-ppt/references/科研答辩风.md + user supplied Transformer examples",
+  "palette": {
+    "blue": "063584",
+    "red": "C00000",
+    "pale": "EDF3FF"
+  },
+  "layout": "medium-high density; compact titles; evidence-first diagrams; varied panels; bottom red conclusion",
+  "output_mode": "native editable PPT objects, per persistent explicit user requirement",
+  "excluded": "all user FTIR data and conclusions",
+  "image_backend": "not used; image-only skill workflow conflicts with all-editable requirement"
+}

@@ -1,6 +1,21 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：完整科研故事版（20页）
+## 当前最新版：codex-ppt 科研答辩视觉重建版（20页，无红外）
+
+- **[下载可编辑PPTX](PVC_Skill_Research_Defense_Editable.pptx)**
+- **[查看新版版式总览](skill_defense_style_overview.png)**
+- [浏览PDF](PVC_Skill_Research_Defense_Editable.pdf)
+- [查看核心机理页](skill_defense_mechanism.png)
+- [逐页讲稿](skill_defense_speaker_notes.md)
+- [制作说明、文献和证据边界](SKILL_DEFENSE_NOTES.md)
+
+按用户新提供图片和codex-ppt科研答辩风规范重设计：深蓝分栏、编号证据点、反应结构、文献数值、底部红色结论，以及不同页面布局。故事为“研究背景—文献启发—科学问题—研究策略—预想机理—实验观察—解释与修正—下一步实验”。
+
+**全部删除红外数据与相关结论。** 20页、20页备注、832个原生可编辑对象、0张内嵌图片；小AQ循环、大PVC路径。为满足持续的全部可编辑要求，采用skill的视觉规范并用原生对象重建，未运行其整页图像生成流程。
+
+下载：点击PPTX链接 → 文件区右上角 **Download raw file（向下箭头）** → 保存 → 用 **WPS演示** 打开。先看版式可点击总览或PDF。
+
+## 历史版本：完整科研故事版（20页）
 
 - **[下载完整可编辑PPTX](PVC_Research_Complete_Editable.pptx)**
 - [浏览20页PDF](PVC_Research_Complete_Editable.pdf)
