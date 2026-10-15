@@ -1,6 +1,18 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：研究生组会正式全可编辑版（20页）
+## 当前最新版：gpt-1 基础修改版（18页）
+
+- **[下载全可编辑PPTX](PVC_GPT1_Revised_Editable.pptx)**
+- [浏览PDF](PVC_GPT1_Revised_Editable.pdf)
+- [查看机制页](gpt1_revised_mechanism.png)
+- [查看部分页面总览](gpt1_revised_overview.png)
+- [修改说明与引用](GPT1_REVISED_NOTES.md)
+
+已删除红外数据与相关结论、顶部小编号和细蓝框，疑问句改为陈述句。保留用户选择版本的蓝白分栏方向，按研究背景、文献依据、模型结果、溶剂竞争、工作假说、验证计划串联。全部568个对象为原生可编辑内容，内嵌图片为0；机理按用户独立图片重建并统一使用R·。
+
+下载：点击PPTX链接 → 文件区右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。PDF仅用于浏览。
+
+## 历史版本：研究生组会正式全可编辑版（20页）
 
 - **[下载正式可编辑PPTX](PVC_Graduate_Meeting_Fully_Editable.pptx)**
 - [浏览PDF](PVC_Graduate_Meeting_Fully_Editable.pdf)

@@ -1,0 +1,19 @@
+{
+  "slides": 18,
+  "native_objects": 568,
+  "embedded_images": 0,
+  "native_charts": 1,
+  "question_marks": 0,
+  "removed_terms_found": [],
+  "out_of_bounds": [],
+  "outlined_native_panels": [],
+  "notes": 18,
+  "chart_values": [
+    [
+      87.6,
+      82.8,
+      73.8,
+      76.6
+    ]
+  ]
+}
