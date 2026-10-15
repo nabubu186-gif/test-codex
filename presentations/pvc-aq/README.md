@@ -1,6 +1,18 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：codex-ppt 科研答辩视觉重建版（20页，无红外）
+## 当前最新版：可编辑背景页已替换（20页）
+
+- **[下载更新后的整套PPTX](PVC_Skill_Defense_Background_Updated.pptx)**
+- **[下载单页可编辑背景PPTX](PVC_Background_Fully_Editable.pptx)**
+- [查看背景页效果](background_editable_preview.png)
+- [浏览整套PDF](PVC_Skill_Defense_Background_Updated.pdf)
+- [重建与编辑说明](BACKGROUND_EDITING_NOTES.md)
+
+将用户新上传背景图按刚刚模板的深蓝、浅蓝与少量红色重建；该页168个原生对象，0张图片。原照片位置改为可编辑材料/装置示意。整套只替换第3页，其余19页保持；无红外内容。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：codex-ppt 科研答辩视觉重建版（20页，无红外）
 
 - **[下载可编辑PPTX](PVC_Skill_Research_Defense_Editable.pptx)**
 - **[查看新版版式总览](skill_defense_style_overview.png)**

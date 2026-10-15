@@ -1,0 +1,19 @@
+{
+  "PVC_Background_Fully_Editable": {
+    "slides": 1,
+    "native_objects": 168,
+    "embedded_images": 0,
+    "out_of_bounds": [],
+    "notes": 1,
+    "infrared_content": false
+  },
+  "PVC_Skill_Defense_Background_Updated": {
+    "slides": 20,
+    "native_objects": 958,
+    "embedded_images": 0,
+    "out_of_bounds": [],
+    "notes": 20,
+    "infrared_content": false
+  },
+  "integration": "Only slide3 replaced; all other slide XML unchanged."
+}
