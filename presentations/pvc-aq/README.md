@@ -1,5 +1,14 @@
 # PVC 光化学课题组汇报
 
+## 最新版：可编辑机理圈
+
+- **[下载机理圈版PPT（20页）](PVC_AQ_20slides_mechanism_cycle.pptx)**
+- [查看机理圈版PDF](PVC_AQ_20slides_mechanism_cycle.pdf)
+- [查看第15页机理圈预览](mechanism_cycle_preview.png)
+- [查看候选skill用途与安全性评估](skill_review.md)
+
+第15页改为候选光敏循环加PVC氧化支路；圆环、文字及箭头可编辑。虚线与问号表示本体系待验证环节，不将图示闭环当作催化再生已被证实。其余19页保留原版。候选skill仅只读审阅，未下载技能包、安装或执行其代码。
+
 ## 最新版：蓝白科研答辩风
 
 - **[下载最新版 PPT（20页，含讲稿备注）](PVC_AQ_20slides_academic_blue.pptx)**
