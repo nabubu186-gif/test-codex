@@ -1,0 +1,142 @@
+[
+  {
+    "slide": 1,
+    "native_text_boxes": 18,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 2,
+    "native_text_boxes": 25,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 4
+  },
+  {
+    "slide": 3,
+    "native_text_boxes": 18,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 2
+  },
+  {
+    "slide": 4,
+    "native_text_boxes": 18,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 2
+  },
+  {
+    "slide": 5,
+    "native_text_boxes": 18,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 2
+  },
+  {
+    "slide": 6,
+    "native_text_boxes": 20,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 2
+  },
+  {
+    "slide": 7,
+    "native_text_boxes": 14,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 4
+  },
+  {
+    "slide": 8,
+    "native_text_boxes": 15,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 4
+  },
+  {
+    "slide": 9,
+    "native_text_boxes": 29,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 10,
+    "native_text_boxes": 12,
+    "native_charts": 0,
+    "native_tables": 1,
+    "image_assets": 4
+  },
+  {
+    "slide": 11,
+    "native_text_boxes": 13,
+    "native_charts": 1,
+    "native_tables": 1,
+    "image_assets": 1
+  },
+  {
+    "slide": 12,
+    "native_text_boxes": 35,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 13,
+    "native_text_boxes": 16,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 2
+  },
+  {
+    "slide": 14,
+    "native_text_boxes": 28,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 15,
+    "native_text_boxes": 40,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 16,
+    "native_text_boxes": 28,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 17,
+    "native_text_boxes": 29,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 18,
+    "native_text_boxes": 24,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 19,
+    "native_text_boxes": 32,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  },
+  {
+    "slide": 20,
+    "native_text_boxes": 17,
+    "native_charts": 0,
+    "native_tables": 0,
+    "image_assets": 1
+  }
+]
