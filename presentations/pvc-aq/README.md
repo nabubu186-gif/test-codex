@@ -1,6 +1,23 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：gpt-1 基础修改版（18页）
+## 当前最新版：完整科研故事版（20页）
+
+- **[下载完整可编辑PPTX](PVC_Research_Complete_Editable.pptx)**
+- [浏览20页PDF](PVC_Research_Complete_Editable.pdf)
+- [查看部分页面总览](complete_overview.png)
+- [查看综合机制页](complete_mechanism_preview.png)
+- [逐页设计、讲稿及衔接](complete_page_design_and_notes.md)
+- [文献证据与未完成核验说明](complete_literature_evidence.md)
+- [原始FTIR图片](original_FTIR.png)
+- [编辑与交付说明](COMPLETE_EDITION_NOTES.md)
+
+按最新完整指令恢复FTIR与机制缺口问号，以“文献依据—模型结果—溶剂竞争—机制检验”形成科研主线。614个原生对象、内嵌图片为0；所有文字、化学结构、箭头、表格、柱状图和FTIR转录线条可编辑。FTIR为原图的矢量转录，并非原始光谱点，原图另附。
+
+六篇上传全文已查阅；在线检索与DOI解析遭网络403拦截。AQ原始研究仅追溯至综述引文，原文及DOI未取得，已明确二次引用，没有虚构核验结果。
+
+下载：点击PPTX链接 → 文件区右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。PDF仅用于浏览。
+
+## 历史版本：gpt-1 基础修改版（18页）
 
 - **[下载全可编辑PPTX](PVC_GPT1_Revised_Editable.pptx)**
 - [浏览PDF](PVC_GPT1_Revised_Editable.pdf)

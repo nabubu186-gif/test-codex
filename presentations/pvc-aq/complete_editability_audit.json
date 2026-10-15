@@ -1,0 +1,20 @@
+{
+  "slides": 20,
+  "aspect_ratio": "16:9",
+  "speaker_notes": 20,
+  "native_objects": 614,
+  "embedded_images": 0,
+  "macros": 0,
+  "out_of_bounds": [],
+  "incorrect_radical_labels": [],
+  "chart_values": [
+    [
+      87.6,
+      82.8,
+      73.8,
+      76.6
+    ]
+  ],
+  "FTIR_source": "original_FTIR.png; native curves are pixel-transcribed, not instrument data",
+  "literature_verification": "6 uploaded full texts checked; online DOI resolution blocked by network 403; AQ original paper only secondarily cited"
+}

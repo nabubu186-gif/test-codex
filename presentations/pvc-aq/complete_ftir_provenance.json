@@ -1,0 +1,14 @@
+{
+  "12 h": {
+    "source": "original_FTIR.png",
+    "method": "colored-pixel transcription with continuity selection; no interpolation or smoothing",
+    "points": 1062,
+    "segments": 2
+  },
+  "24 h": {
+    "source": "original_FTIR.png",
+    "method": "colored-pixel transcription with continuity selection; no interpolation or smoothing",
+    "points": 1100,
+    "segments": 1
+  }
+}
