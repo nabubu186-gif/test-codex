@@ -1,0 +1,14 @@
+{
+  "12 h": {
+    "source": "source_09_10.png",
+    "method": "colored-pixel vector transcription; continuity-selected connected color component per column; no smoothing",
+    "points": 1062,
+    "segments": 2
+  },
+  "24 h": {
+    "source": "source_09_10.png",
+    "method": "colored-pixel vector transcription; continuity-selected connected color component per column; no smoothing",
+    "points": 1100,
+    "segments": 1
+  }
+}

@@ -1,6 +1,18 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：小AQ循环 + 重点PVC反应图
+## 当前最新版：研究生组会正式全可编辑版（20页）
+
+- **[下载正式可编辑PPTX](PVC_Graduate_Meeting_Fully_Editable.pptx)**
+- [浏览PDF](PVC_Graduate_Meeting_Fully_Editable.pdf)
+- [查看机制页预览](formal_mechanism_preview.png)
+- [编辑说明与核查结果](FORMAL_EDITING_NOTES.md)
+- [原始FTIR图片](original_FTIR.png)
+
+蓝白正式版，补充文献证据比较、完整实验记录、工作假说与后续验证方案。全部643个对象为原生可编辑内容，内嵌图片为0；机理统一使用R·。FTIR为原图的矢量转录，非原始数据。
+
+下载步骤：点击PPTX链接 → 文件区右上角 **Download raw file（向下箭头）** → 保存到电脑 → 用 **WPS演示** 打开。浏览器里的Codex不支持直接编辑PPTX。PDF可用于先看版式。
+
+## 历史版本：小AQ循环 + 重点PVC反应图
 
 - **[下载可编辑PPTX](PVC_AQ_20slides_editable_chemdraw.pptx)**
 - [查看PDF](PVC_AQ_20slides_editable_chemdraw.pdf)
