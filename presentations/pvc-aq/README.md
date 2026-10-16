@@ -1,6 +1,17 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：EAQ选择与逐级研究策略（合并单页）
+## 当前最新版：模型实验结果分析页
+
+- **[下载可编辑PPTX](Model_Experiment_Result_Analysis_Editable.pptx)**
+- **[查看效果预览](model_experiment_result_analysis_preview.png)**
+- [浏览PDF](Model_Experiment_Result_Analysis_Editable.pdf)
+- [讲稿](Model_Experiment_Result_Analysis_notes.md) / [对象审计](model_experiment_result_analysis_audit.json)
+
+根据前一页的已记录转化率和候选信号重写分析：DCE条件在O₂和N₂下均出现氯代候选信号，乙腈条件未检出同类信号；O₂条件记录值较高并出现氧化候选信号；乙腈中把2-氯戊烷提高到2.5 mmol仍未恢复候选产物。页面因此将“DCE可能参与、O₂改变产物分布”作为首要解释，并明确目标底物转化、产物身份和转化率计算仍待复核。后续实验按“溶剂空白—产物确证—校准与物料平衡—机理验证”排序。整页119个对象均可编辑，0张内嵌图片。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：EAQ选择与逐级研究策略（合并单页）
 
 - **[下载合并后的可编辑PPTX](EAQ_Selection_and_Strategy_Combined_Editable.pptx)**
 - **[查看单页效果预览](eaq_selection_strategy_combined.png)**
