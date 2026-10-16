@@ -1,6 +1,18 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：可编辑背景页已替换（20页）
+## 当前最新版：加入可编辑 C–Cl 转化路径页（21页）
+
+- **[下载单页可编辑PPTX](PVC_CCl_Pathways_Editable.pptx)**
+- **[下载整套更新版PPTX](PVC_Skill_Defense_Pathways_Updated.pptx)**
+- [查看路径页效果](ccl_pathways_editable_preview.png)
+- [浏览整套PDF](PVC_Skill_Defense_Pathways_Updated.pdf)
+- [编辑与科学表述说明](CCL_PATHWAYS_EDITING_NOTES.md)
+
+新页采用刚刚的深蓝、浅蓝与少量红色，含103个原生对象；取代、均裂、消除的结构式与电子弯箭均可编辑。整套在背景页后插入为第4页，原20页正文与讲稿保留，共21页。键能数值沿用户图保留，原始出处及适用结构待核，不据此推定直接光解。无红外数据。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：可编辑背景页已替换（20页）
 
 - **[下载更新后的整套PPTX](PVC_Skill_Defense_Background_Updated.pptx)**
 - **[下载单页可编辑背景PPTX](PVC_Background_Fully_Editable.pptx)**

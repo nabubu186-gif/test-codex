@@ -1,0 +1,19 @@
+{
+  "PVC_CCl_Pathways_Editable": {
+    "slides": 1,
+    "native_objects": 103,
+    "notes": 1,
+    "embedded_images": 0,
+    "out_of_bounds": [],
+    "infrared_found": false
+  },
+  "PVC_Skill_Defense_Pathways_Updated": {
+    "slides": 21,
+    "native_objects": 1061,
+    "notes": 21,
+    "embedded_images": 0,
+    "out_of_bounds": [],
+    "infrared_found": false
+  },
+  "integration": "New slide inserted as slide4; all original20 slide bodies and speaker notes preserved; page numbers updated."
+}
