@@ -1,6 +1,19 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：C–Cl 三路径结构与完整箭头修正版
+## 当前最新版：三板块文献启发页（原图保真、右侧可编辑）
+
+- **[下载三板块单页PPTX](PVC_Literature_ThreePanels_OriginalFigure.pptx)**
+- **[查看效果预览](literature_three_panels_preview.png)**
+- [下载整套21页更新版PPTX](PVC_Skill_Defense_Literature_Updated.pptx)
+- [浏览整套PDF](PVC_Skill_Defense_Literature_Updated.pdf)
+- [查看文献原图](gardette_original_scheme.png)
+- [讲稿](literature_three_panels_notes.md) / [编辑说明](LITERATURE_THREE_PANELS_NOTES.md)
+
+按用户选择保留左侧Gardette原文机理图，右上将文献总结为三个关键环节，右下用箭头连接本课题的三步验证。右侧文字、公式、框与箭头均可编辑，左侧原图可移动/裁剪/替换。配色与前页统一。整套仅替换第5页，上一页C–Cl三路径修正版及其完整箭头保留。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：C–Cl 三路径结构与完整箭头修正版
 
 - **[下载单页修正版PPTX](PVC_CCl_Pathways_Corrected.pptx)**
 - **[下载整套21页修正版PPTX](PVC_Skill_Defense_Pathways_Corrected.pptx)**

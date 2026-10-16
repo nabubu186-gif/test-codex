@@ -1,0 +1,15 @@
+{
+  "PVC_Literature_ThreePanels_OriginalFigure": {
+    "slides": 1,
+    "original_figure_images": 1,
+    "out_of_bounds": [],
+    "notes": 1
+  },
+  "PVC_Skill_Defense_Literature_Updated": {
+    "slides": 21,
+    "original_figure_images": 1,
+    "out_of_bounds": [],
+    "notes": 21
+  },
+  "scope": "Only slide5 replaced in integrated21-page deck; source image preserved byte-for-byte; right text, arrows and flow shapes native editable."
+}
