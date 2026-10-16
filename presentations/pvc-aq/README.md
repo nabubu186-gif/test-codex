@@ -1,6 +1,17 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：EAQ选择与逐级研究策略（两页）
+## 当前最新版：EAQ选择与逐级研究策略（合并单页）
+
+- **[下载合并后的可编辑PPTX](EAQ_Selection_and_Strategy_Combined_Editable.pptx)**
+- **[查看单页效果预览](eaq_selection_strategy_combined.png)**
+- [浏览PDF](EAQ_Selection_and_Strategy_Combined_Editable.pdf)
+- [讲稿](EAQ_Selection_and_Strategy_Combined_notes.md) / [对象审计](eaq_selection_strategy_combined_audit.json)
+
+将原来的两页合并为一页：上半部分用文献原图和三个证据点说明EAQ可形成激发态、通过HAT/电子转移产生初始自由基，并可能在O₂参与下再生；下半部分用“EAQ入口—氯代烷烃—氯代石蜡—PVC”四步路线说明如何由简单到复杂验证。末端“氧化/断链”保留为待验证步骤，未把Cl·形成或PVC主链断裂写成既定结论。除文献原图外，其余82个对象均为原生可编辑内容；已通过一页备注、页面边界和OOXML结构检查。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：EAQ选择与逐级研究策略（两页）
 
 - **[下载两页可编辑PPTX](EAQ_Selection_and_Research_Strategy_Editable.pptx)**
 - [查看EAQ选择页](eaq_strategy_page_1.png)
