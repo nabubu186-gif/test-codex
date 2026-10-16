@@ -1,6 +1,17 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：PS/CH₂Cl₂ 理论可行性双版本
+## 当前最新版：EAQ 光敏组分选择页
+
+- **[下载EAQ选择单页PPTX](EAQ_Selection_Literature_Editable.pptx)**
+- **[查看效果预览](eaq_selection_preview.png)**
+- [浏览PDF](EAQ_Selection_Literature_Editable.pdf)
+- [讲稿](EAQ_Selection_notes.md) / [对象审计](eaq_selection_audit.json)
+
+承接PS/CH₂Cl₂理论可行性页，先说明PVC/模型底物在365 nm下是否能直接进入相同自由基路径仍未确定，因此需要EAQ承担可调的光化学入口。左侧保留Chen等2024年综述Figure 2b的2-EAQ原始循环；右侧用三层证据说明激发态形成、HAT/ET–PT活化C–H及O₂参与再生。已删除“必须设置对照”条目。右侧文字、框、公式和箭头可编辑，原文图片可移动、裁剪和替换。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：PS/CH₂Cl₂ 理论可行性双版本
 
 - **[下载原文机理保真版](PS_CH2Cl2_OriginalMechanism_Evidence.pptx)**
 - **[下载模板重绘版](PS_CH2Cl2_RedrawnMechanism_Evidence.pptx)**
