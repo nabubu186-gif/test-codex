@@ -1,6 +1,17 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：模型实验结果分析页
+## 当前最新版：Science 2025 含氯介质启动PMMA解聚页
+
+- **[下载可编辑PPTX](Science_adr1637_Theory_Feasibility_Editable.pptx)**
+- **[查看效果预览](science_adr1637_theory_preview.png)**
+- [浏览PDF](Science_adr1637_Theory_Feasibility_Editable.pdf)
+- [讲稿](Science_adr1637_Theory_Feasibility_notes.md) / [对象审计](science_adr1637_theory_audit.json)
+
+按用户给出的“左侧主机理、右侧EPR与分子量证据、底部总结句”版式解释Wang等人的Science 2025论文。左侧保留原文Figure 3D并用可编辑中文流程解释“DCB光激发—C–Cl均裂—Cl·攫氢—β-裂解与解聚”；右侧使用原文Figure 3C的PBN–EPR和Figure 2B的SEC曲线。结论明确区分：论文支持外源含氯介质产生自由基并启动PMMA主链反应，但不能直接证明PVC自身C–Cl键在EAQ体系中释放Cl·。共55个对象，3张原文证据图，其余文字、流程、箭头和版式可编辑。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：模型实验结果分析页
 
 - **[下载可编辑PPTX](Model_Experiment_Result_Analysis_Editable.pptx)**
 - **[查看效果预览](model_experiment_result_analysis_preview.png)**
