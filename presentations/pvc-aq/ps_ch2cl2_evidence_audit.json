@@ -1,0 +1,20 @@
+{
+  "PS_CH2Cl2_OriginalMechanism_Evidence.pptx": {
+    "slides": 1,
+    "notes": 1,
+    "pictures": 3,
+    "out_of_bounds": []
+  },
+  "PS_CH2Cl2_RedrawnMechanism_Evidence.pptx": {
+    "slides": 1,
+    "notes": 1,
+    "pictures": 2,
+    "out_of_bounds": []
+  },
+  "PS_CH2Cl2_Evidence_TwoVariants.pptx": {
+    "slides": 2,
+    "notes": 2,
+    "pictures": 5,
+    "out_of_bounds": []
+  }
+}

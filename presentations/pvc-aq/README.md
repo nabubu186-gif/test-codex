@@ -1,6 +1,19 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：本课题纵向验证路径（圆润版式）
+## 当前最新版：PS/CH₂Cl₂ 理论可行性双版本
+
+- **[下载原文机理保真版](PS_CH2Cl2_OriginalMechanism_Evidence.pptx)**
+- **[下载模板重绘版](PS_CH2Cl2_RedrawnMechanism_Evidence.pptx)**
+- **[下载两版对照PPTX](PS_CH2Cl2_Evidence_TwoVariants.pptx)**
+- [查看原图版预览](ps_ch2cl2_original_preview.png)
+- [查看重绘版预览](ps_ch2cl2_redrawn_preview.png)
+- [浏览两版PDF](PS_CH2Cl2_Evidence_TwoVariants.pdf)
+
+两版均在右侧使用Su等2026年论文的原始证据图：Figure 5A–B的PBN–EPR实验/模拟谱，以及Figure 2D的GPC衍生分子量结果。原图版保留Figure 5J机理图；重绘版删除彩色小球，以蓝白模板和可编辑分子式、箭头重建反应路径。底部结论连接下一页EAQ选择。完整GPC洗脱曲线位于补充材料Figures S13、S14，当前上传正文未包含，因此没有伪造曲线。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：本课题纵向验证路径（圆润版式）
 
 - **[下载纵向路径单页PPTX](PVC_Literature_Project_Vertical.pptx)**
 - **[查看效果预览](literature_project_vertical_preview.png)**
