@@ -1,6 +1,18 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：EAQ 光敏组分选择页
+## 当前最新版：EAQ选择与逐级研究策略（两页）
+
+- **[下载两页可编辑PPTX](EAQ_Selection_and_Research_Strategy_Editable.pptx)**
+- [查看EAQ选择页](eaq_strategy_page_1.png)
+- [查看逐级研究策略页](eaq_strategy_page_2.png)
+- [浏览PDF](EAQ_Selection_and_Research_Strategy_Editable.pdf)
+- [讲稿](EAQ_Selection_and_Research_Strategy_notes.md) / [对象审计](eaq_strategy_two_slides_audit.json)
+
+第1页将EAQ定位为光敏启动组分，并用“365 nm光照—EAQ激发态—HAT/电子转移—初始自由基—潜在氧化断链”流程填补空白；最后一步使用虚线，明确其在PVC体系中尚待验证。第2页把原来的四个空框改为“分子式—核心任务—判断依据—阶段产出”，路线为EAQ光化学入口、氯代烷烃模型、氯代石蜡和PVC。除第1页文献原图外，其余119个对象均为原生可编辑内容。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：EAQ 光敏组分选择页
 
 - **[下载EAQ选择单页PPTX](EAQ_Selection_Literature_Editable.pptx)**
 - **[查看效果预览](eaq_selection_preview.png)**
