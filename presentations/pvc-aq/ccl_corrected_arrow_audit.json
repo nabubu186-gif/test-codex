@@ -1,0 +1,72 @@
+{
+  "slides_single": 1,
+  "slides_whole": 21,
+  "molecule_groups": 6,
+  "arrow_objects": [
+    {
+      "name": "Path1_NucleophileAttack",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path1_BondPairToChlorine",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path1_ReactionArrow",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path2_OneElectronToCarbon",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path2_OneElectronToChlorine",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path2_ReactionArrow",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path3_BaseToBetaHydrogen",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path3_CHBondPairToCCBond",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path3_CClPairToChlorine",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    },
+    {
+      "name": "Path3_ReactionArrow",
+      "single_native_object": true,
+      "native_path_count": 1,
+      "grouped_arrow": false
+    }
+  ],
+  "electron_pair_curved_arrows": 5,
+  "single_electron_fishhooks": 2,
+  "reaction_arrows": 3,
+  "embedded_images": 0,
+  "molecular_labels": "ASCII Arial text; charges and radical dots use native geometry; no special-glyph dependence"
+}

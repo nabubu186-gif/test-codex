@@ -1,6 +1,19 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：加入可编辑 C–Cl 转化路径页（21页）
+## 当前最新版：C–Cl 三路径结构与完整箭头修正版
+
+- **[下载单页修正版PPTX](PVC_CCl_Pathways_Corrected.pptx)**
+- **[下载整套21页修正版PPTX](PVC_Skill_Defense_Pathways_Corrected.pptx)**
+- **[查看三条路径的分子结构放大图](ccl_corrected_mechanism_detail.png)**
+- [查看完整页面](ccl_corrected_preview.png)
+- [浏览修正版整套PDF](PVC_Skill_Defense_Pathways_Corrected.pdf)
+- [箭头与编辑说明](CCL_CORRECTED_NOTES.md)
+
+按用户原图核对取代、均裂和消除的分子结构、负电荷、自由基点、邻位H与C=C位置。七条电子曲箭与三条反应箭头均为**单个完整原生对象**，不再由曲线和分离箭头线拼接；六个分子结构分别成组。分子字母用普通Arial字符，电荷/自由基点为原生几何，避免生僻符号乱码。保持原模板配色及全部可编辑，无红外数据。
+
+下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：加入可编辑 C–Cl 转化路径页（21页）
 
 - **[下载单页可编辑PPTX](PVC_CCl_Pathways_Editable.pptx)**
 - **[下载整套更新版PPTX](PVC_Skill_Defense_Pathways_Updated.pptx)**
