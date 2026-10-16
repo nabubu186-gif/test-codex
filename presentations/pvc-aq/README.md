@@ -1,17 +1,25 @@
 # PVC 光化学课题组汇报
 
-## 当前最新版：三板块文献启发页（原图保真、右侧可编辑）
+## 当前最新版：本课题纵向验证路径（圆润版式）
 
-- **[下载三板块单页PPTX](PVC_Literature_ThreePanels_OriginalFigure.pptx)**
-- **[查看效果预览](literature_three_panels_preview.png)**
-- [下载整套21页更新版PPTX](PVC_Skill_Defense_Literature_Updated.pptx)
-- [浏览整套PDF](PVC_Skill_Defense_Literature_Updated.pdf)
+- **[下载纵向路径单页PPTX](PVC_Literature_Project_Vertical.pptx)**
+- **[查看效果预览](literature_project_vertical_preview.png)**
+- [下载整套21页更新版PPTX](PVC_Skill_Defense_Literature_Vertical.pptx)
+- [浏览整套PDF](PVC_Skill_Defense_Literature_Vertical.pdf)
 - [查看文献原图](gardette_original_scheme.png)
-- [讲稿](literature_three_panels_notes.md) / [编辑说明](LITERATURE_THREE_PANELS_NOTES.md)
+- [讲稿](literature_project_vertical_notes.md) / [对象审计](literature_project_vertical_audit.json)
 
-按用户选择保留左侧Gardette原文机理图，右上将文献总结为三个关键环节，右下用箭头连接本课题的三步验证。右侧文字、公式、框与箭头均可编辑，左侧原图可移动/裁剪/替换。配色与前页统一。整套仅替换第5页，上一页C–Cl三路径修正版及其完整箭头保留。
+按用户选择保留左侧Gardette原文机理图，右侧将本课题的“调节光敏入口—检验自由基支路—确认聚合物变化”改为自上而下的三步路径。顶部采用浅蓝胶囊标题、圆形编号和白色圆角卡片，不再使用深蓝整条盖板；底部红字为最终结论。右侧文字、公式、圆角框与整根箭头均可编辑，左侧原图可移动、裁剪和替换。整套仅替换第5页，上一页C–Cl三路径修正版及其完整箭头保留。
 
 下载：打开PPTX文件页 → 右上角 **Download raw file（向下箭头）** → 保存 → 使用 **WPS演示** 打开。
+
+## 历史版本：三板块文献启发页（原图保真、右侧可编辑）
+
+- [下载三板块单页PPTX](PVC_Literature_ThreePanels_OriginalFigure.pptx)
+- [查看效果预览](literature_three_panels_preview.png)
+- [下载整套21页更新版PPTX](PVC_Skill_Defense_Literature_Updated.pptx)
+- [浏览整套PDF](PVC_Skill_Defense_Literature_Updated.pdf)
+- [讲稿](literature_three_panels_notes.md) / [编辑说明](LITERATURE_THREE_PANELS_NOTES.md)
 
 ## 历史版本：C–Cl 三路径结构与完整箭头修正版
 
